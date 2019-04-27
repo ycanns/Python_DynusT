@@ -1,0 +1,6 @@
+# Please copy and paste from second line to sixth line into Python command window (Do NOT all together; copy and paste as line by line)
+A='Veh #      289 Tag= 2 OrigZ=  370 DestZ=  380 Class= 3 UstmN=  15264 DownN=  15263 DestN=  16552 STime=    0.40 Total Travel Time=    8.88 # of Nodes=  17 VehType 1 EVAC 0'
+B='   15263   17262   17252   17414   17320     291   17136   17118   17325   17323   17324   16921   16893   16633   16600   17903   16552'
+C='    0.00    3.50    3.74    4.37    4.70    4.78    5.00    5.14    5.47    5.77    6.03    6.21    6.58    8.38    8.50    8.60    8.88'
+D='    0.00    3.50    0.24    0.63    0.33    0.08    0.22    0.14    0.33    0.30    0.26    0.18    0.37    1.80    0.12    0.10    0.28'
+E='    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.00    0.10    0.10    0.10    0.10'
